@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm sathwik</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
-- 🌱 I’m currently learning **FullStack Development**
+- 🌱 I’m currently learning **FullStack Development&cloud**
 
 - 👨‍💻My portfolio Website(Old) [sathwikportfolio.netlify.app](sathwikportfolio.netlify.app)
 
