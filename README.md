@@ -2,11 +2,6 @@
 <h3 align="center">A passionate FullStack developer</h3>
 
 - 🌱 I’m currently learning **FullStack Development&cloud**
-
-- 👨‍💻My portfolio Website(Old) [sathwikportfolio.netlify.app](sathwikportfolio.netlify.app)
-
-- 💬 Ask me about **React,Mongodb,Nodejs,Firebase,nextjs**
-
 - 📫 How to reach me **hsathwik002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
