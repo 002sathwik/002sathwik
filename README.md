@@ -86,20 +86,8 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=002sathwik&theme=tokyonight" alt="Profile Summary" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=002sathwik&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
-
-## 📈 Contribution Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=002sathwik&theme=tokyonight&layout=compact" alt="Coding Activity" />
-</p>
-
----
-
 <p align="center">
   <i>⚡ "First, solve the problem. Then, write the code." – John Johnson</i>
 </p>
